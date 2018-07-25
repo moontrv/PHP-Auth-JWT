@@ -1,0 +1,17 @@
+{
+    "name": "bretterer/php-auth",
+    "description": "Auth",
+    "type": "project",
+    "require": {
+        "symfony/http-foundation": "3.1.6",
+        "firebase/php-jwt": "^4.0",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "m",
+            "email": "m@example.com"
+        }
+    ]
+}
